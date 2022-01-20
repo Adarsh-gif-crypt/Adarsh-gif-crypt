@@ -1,6 +1,6 @@
 
 <h1 align="Left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adarsh aka Recreo</h1>
-<h3 align="Left">I am a DS/ML enthusiast also looking to expand my horizons to Ethical hacking</h3>
+<h3 align="Left">I am an ambitious aficionado of Data Science and Machine Learning</h3>
 </br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Adarsh-gif-crypt">
@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 You can reach me at **shailendraadarsh2@gmail.com**
+- 📫 You can reach me at **[shailendraadarsh2@gmail.com](shailendraadarsh2@gmail.com)**
 
 - ⚡ Fun fact **Recreo is my gamertag and also sort of a nickname!**
 
