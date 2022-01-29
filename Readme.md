@@ -21,7 +21,7 @@
 
 - 📫 You can reach me at **[shailendraadarsh2@gmail.com](shailendraadarsh2@gmail.com)**
 
-- ⚡ Fun fact **My friends call me Rec (short of Recro sometimes)**
+- ⚡ Fun fact **Recreo is my gamertag and my friends call me Rec (short of Recro) sometimes**
 
 - ☕ I love coffeee
 
