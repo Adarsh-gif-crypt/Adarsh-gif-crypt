@@ -13,15 +13,15 @@
 
 </br>
 
-- 🔭 I’m currently working on **[Streamlit](https://streamlit.io)**
+- 🔭 I’m currently working on improving my skills
 
-- 🌱 I’m currently learning **Building Webapps for Data Visualization**
+- 🌱 I’m currently learning tensorflow
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 You can reach me at **[shailendraadarsh2@gmail.com](shailendraadarsh2@gmail.com)**
 
-- ⚡ Fun fact **Recreo is my gamertag and my friends call me Rec (short of Recro) sometimes**
+- ⚡ Fun fact **Recreo is my gamertag and my friends call me Rec (short of Recreo) sometimes**
 
 - ☕ I love coffeee
 
