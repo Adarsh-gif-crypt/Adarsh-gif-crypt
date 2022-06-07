@@ -1,5 +1,5 @@
 
-<h1 align="Left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Adarsh aka Recreo</h1>
+<h1 align="Left">Hello👋, I'm Adarsh aka Recreo</h1>
 <h3 align="Left">I am an ambitious aficionado of Data Science and Machine Learning</h3>
 </br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
